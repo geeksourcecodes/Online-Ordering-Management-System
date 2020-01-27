@@ -1,0 +1,2 @@
+# Online-Ordering-Management-System
+This online system is a multi store ordering system that can be use in any small businesses. In this system, the customer can select wide range items such as electronics, fashion apparel, home appliances and many more. These products come from different stores where they are allowed to sell their merchandise. Ordering online is now one of the easiest tasks to do with the help of your PC, phone that has a strong internet connection. Check the following features below to know more about the system.
